@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,ICTV UA
+http://194.8.146.175:4444/ICTV_UA
+#EXTINF:-1,Інтер+
+http://194.8.146.175:4444/INTER+
+#EXTINF:-1,NewsOne SD
+http://194.8.146.175:4444/News_One
+#EXTINF:-1,Уніан TV
+http://194.8.146.175:4444/Unian
+#EXTINF:-1,5 канал
+http://194.8.146.175:5555/5kanal
+#EXTINF:-1,2+2
+http://194.8.146.175:5555/2+2
+#EXTINF:-1,1+1
+http://194.8.146.175:5555/1+1
+#EXTINF:-1,K-1
+http://194.8.146.175:5555/K1
+#EXTINF:-1,K-2
+http://194.8.146.175:5555/K-2
+#EXTINF:-1,Інтер
+http://194.8.146.175:5555/Inter
+#EXTINF:-1,Індиго
+http://194.8.146.175:5555/INDIGO
+#EXTINF:-1,Enter-фільм
+http://194.8.146.175:5555/Enter-film
+#EXTINF:-1,НТН
+http://194.8.146.175:5555/NTN
+#EXTINF:-1,НЛО ТБ
+http://194.8.146.175:5555/NLOTV
+#EXTINF:-1,Мега
+http://194.8.146.175:5555/Mega
+#EXTINF:-1,M-1
+http://194.8.146.175:5555/M-1
+#EXTINF:-1,UA: КУЛЬТУРА
+http://194.8.146.175:5555/Kultura
+#EXTINF:-1,РАДА
+http://194.8.146.175:5555/RADA
+#EXTINF:-1,ПЛЮС ПЛЮС
+http://194.8.146.175:5555/PLUSPLUS
+#EXTINF:-1,Pixel
+http://194.8.146.175:5555/Pixel
+#EXTINF:-1,ZOOM
+http://194.8.146.175:5555/ZOOM
+#EXTINF:-1,ZIK
+http://194.8.146.175:5555/ZIK
+#EXTINF:-1,Україна
+http://194.8.146.175:5555/Ukraina
+#EXTINF:-1,XSPORT
+http://194.8.146.175:5555/XSPORT
+#EXTINF:-1,СТБ
+http://194.8.146.175:5555/STB
+#EXTINF:-1,TET
+http://194.8.146.175:5555/TET
