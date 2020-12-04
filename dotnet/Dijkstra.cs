@@ -11,7 +11,7 @@ namespace dotnet{
         public void AddEdge(Edge edgeItem){
             EdgeList.Add(edgeItem);
         }
-        public Vertex returnVertexByName(string nameVertexItem){
+        public Vertex ReturnVertexByName(string nameVertexItem){
             foreach (Vertex item in VertexList)
             {
                 if(item.Name == nameVertexItem){
@@ -20,7 +20,7 @@ namespace dotnet{
             }
             return null;
         }
-        public void createGrapgh(){
+        public void CreateGrapgh(){
             AddVertex(new Vertex("Start",0));
             AddVertex(new Vertex("A",double.MaxValue));
             AddVertex(new Vertex("B",double.MaxValue));
