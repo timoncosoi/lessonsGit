@@ -1,0 +1,13 @@
+/run/media/summercat/temp/dotnetDelegate/bin/Debug/netcoreapp3.1/dotnetDelegate
+/run/media/summercat/temp/dotnetDelegate/bin/Debug/netcoreapp3.1/dotnetDelegate.deps.json
+/run/media/summercat/temp/dotnetDelegate/bin/Debug/netcoreapp3.1/dotnetDelegate.runtimeconfig.json
+/run/media/summercat/temp/dotnetDelegate/bin/Debug/netcoreapp3.1/dotnetDelegate.runtimeconfig.dev.json
+/run/media/summercat/temp/dotnetDelegate/bin/Debug/netcoreapp3.1/dotnetDelegate.dll
+/run/media/summercat/temp/dotnetDelegate/bin/Debug/netcoreapp3.1/dotnetDelegate.pdb
+/run/media/summercat/temp/dotnetDelegate/obj/Debug/netcoreapp3.1/dotnetDelegate.csprojAssemblyReference.cache
+/run/media/summercat/temp/dotnetDelegate/obj/Debug/netcoreapp3.1/dotnetDelegate.AssemblyInfoInputs.cache
+/run/media/summercat/temp/dotnetDelegate/obj/Debug/netcoreapp3.1/dotnetDelegate.AssemblyInfo.cs
+/run/media/summercat/temp/dotnetDelegate/obj/Debug/netcoreapp3.1/dotnetDelegate.csproj.CoreCompileInputs.cache
+/run/media/summercat/temp/dotnetDelegate/obj/Debug/netcoreapp3.1/dotnetDelegate.dll
+/run/media/summercat/temp/dotnetDelegate/obj/Debug/netcoreapp3.1/dotnetDelegate.pdb
+/run/media/summercat/temp/dotnetDelegate/obj/Debug/netcoreapp3.1/dotnetDelegate.genruntimeconfig.cache
