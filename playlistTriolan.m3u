@@ -1,409 +1,415 @@
-#EXTM3U url-tvg=http://Triolan.tv/App_Files/jtv.zip url-epg=http://Triolan.tv/stb/xmltv.xml m3uautoload=1 cache=0 deinterlace=1 tvg-shift=0 groups="Все каналы|HDTV|Детский|Музыка|Новости|Обще-развлекательный|Познавательный|Развлечение|Разное|Фильмы"
-#EXTINF:0 tvg-name="TV1000 Action CEE" channel-id="12135" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635739502612860382.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",TV1000 Action HD
-http://tv3.triolan.com.ua:8888/udp/238.0.1.14:1234
-#EXTINF:0 tvg-name="TV1000 CEE" channel-id="12138" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637254008570468227.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",TV1000 East HD
-http://tv3.triolan.com.ua:8888/udp/238.0.1.15:1234
-#EXTINF:0 tvg-name="TV1000 World Kino" channel-id="10040" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636319893506463199.png&div=1" aspect-ratio=4:3 groups="Все каналы|Фильмы",TV1000 World Kino
-http://tv3.triolan.com.ua:8888/udp/238.0.1.9:1234
-#EXTINF:0 tvg-name="ViP Comedy CEE HD" channel-id="12134" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636445983606641257.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",ViP Comedy HD
-http://tv3.triolan.com.ua:8888/udp/238.0.1.100:1234
-#EXTINF:0 tvg-name="Viasat Explore CEE" channel-id="10583" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166330980278806.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Viasat Explore
-http://tv3.triolan.com.ua:8888/udp/238.0.1.8:1234
-#EXTINF:0 tvg-name="Viasat History" channel-id="10974" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166335715110806.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Viasat History
-http://tv3.triolan.com.ua:8888/udp/238.0.1.10:1234
-#EXTINF:0 tvg-name="Viasat Nature CEE" channel-id="10585" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637177084018353114.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Viasat Nature
-http://tv3.triolan.com.ua:8888/udp/238.0.1.7:1234
-#EXTINF:0 tvg-name="Viasat Sport Россия" channel-id="10335" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635308270151643291.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Viasat Sport East
-http://tv3.triolan.com.ua:8888/udp/238.0.1.12:1234
-#EXTINF:0 tvg-name="Epic Drama" channel-id="11041" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636560138413644182.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Epic Drama
-http://tv3.triolan.com.ua:8888/udp/238.0.1.13:1234
-#EXTINF:0 tvg-name="1+1 HD" channel-id="12102" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637116034039141673.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",1+1 HD
+#EXTM3U url-tvg=http://triolan.tv/app_files/xmltv.zip url-epg=http://triolan.tv/app_files/xmltv.xml m3uautoload=1 cache=0 deinterlace=1 tvg-shift=0 groups="Все каналы|HDTV|Детский|Музыка|Новости|Обще-развлекательный|Познавательный|Развлечение|Разное|Фильмы"
+#EXTINF:0 tvg-name="1+1 HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637116034039141673.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",1+1 HD
 http://tv3.triolan.com.ua:8888/udp/238.0.0.1:1234
-#EXTINF:0 tvg-name="2+2" channel-id="12128" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637203426090666067.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",2+2 HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.142:1234
-#EXTINF:0 tvg-name="ТЕТ" channel-id="12127" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813521887049990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ТЕТ HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.141:1234
-#EXTINF:0 tvg-name="ICTV" channel-id="12118" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152939712251816.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ICTV HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.124:1234
-#EXTINF:0 tvg-name="Новый канал" channel-id="12119" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152940835771018.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Новый канал HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.125:1234
-#EXTINF:0 tvg-name="СТБ" channel-id="12117" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152937746483215.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",СТБ HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.123:1234
-#EXTINF:0 tvg-name="Украина HD" channel-id="12103" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637123531690749805.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Украина HD
+#EXTINF:0 tvg-name="Украина HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637123531690749805.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Украина HD
 http://tv3.triolan.com.ua:8888/udp/238.0.0.2:1234
-#EXTINF:0 tvg-name="НЛО TV" channel-id="12123" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164043686591529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",НЛО HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.110:1234
-#EXTINF:0 tvg-name="Интер" channel-id="11086" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813515308841990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Интер
-http://tv3.triolan.com.ua:8888/udp/238.0.0.73:1234
-#EXTINF:0 tvg-name="К1" channel-id="10899" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813515977457990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",К1
-http://tv3.triolan.com.ua:8888/udp/238.0.0.13:1234
-#EXTINF:0 tvg-name="К2" channel-id="10900" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813516636713990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",К2
-http://tv3.triolan.com.ua:8888/udp/238.0.0.23:1234
-#EXTINF:0 tvg-name="Футбол 1" channel-id="10552" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636500755928469971.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Футбол 1
-http://tv3.triolan.com.ua:8888/udp/238.0.0.80:1234
-#EXTINF:0 tvg-name="Футбол 2" channel-id="10337" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635405990942405783.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Футбол 2
-http://tv3.triolan.com.ua:8888/udp/238.0.0.81:1234
-#EXTINF:0 tvg-name="Футбол 3" channel-id="12125" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164050047491529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Футбол 3 HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.200:1234
-#EXTINF:0 tvg-name="Рыбалка" channel-id="12126" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164052021359529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Рибалка
-http://tv3.triolan.com.ua:8888/udp/238.0.0.52:1234
-#EXTINF:0 tvg-name="Paramount Comedy Украина" channel-id="11020" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636501391636277852.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Paramount Comedy
-http://tv3.triolan.com.ua:8888/udp/238.0.0.42:1234
-#EXTINF:0 tvg-name="Paramount channel Россия" channel-id="12115" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135758003819562.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Paramount Channel
-http://tv3.triolan.com.ua:8888/udp/238.0.0.87:1234
-#EXTINF:0 tvg-name="FOX" channel-id="12107" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135723534613358.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",FOX
-http://tv3.triolan.com.ua:8888/udp/238.0.0.41:1234
-#EXTINF:0 tvg-name="National Geographic Channel (NGC)" channel-id="12110" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135749106757358.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",National Geographic Channel (NGC)
-http://tv3.triolan.com.ua:8888/udp/238.0.0.54:1234
-#EXTINF:0 tvg-name="Nat Geo Wild" channel-id="12109" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135747285457358.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Nat Geo Wild
-http://tv3.triolan.com.ua:8888/udp/238.0.0.53:1234
-#EXTINF:0 tvg-name="Cartoon Network" channel-id="12108" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135724865917358.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Cartoon Network
-http://tv3.triolan.com.ua:8888/udp/238.0.0.47:1234
-#EXTINF:0 tvg-name="112 Украина HD" channel-id="10929" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813552830117990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",112 Украина HD
-http://tv3.triolan.com.ua:8888/udp/238.0.16.2:1234
-#EXTINF:0 tvg-name="NewsOne" channel-id="10840" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635919178144090247.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",NewsOne HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.37:1234
-#EXTINF:0 tvg-name="History Европа" channel-id="11046" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636777077956409902.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Тhe History Channel Europe HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.131:1234
-#EXTINF:0 tvg-name="Квартал ТВ" channel-id="11022" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530842289167161.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Развлечение",Kvartal TV
-http://tv3.triolan.com.ua:8888/udp/238.0.0.101:1234
-#EXTINF:0 tvg-name="НТН" channel-id="10903" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813519553757990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",НТН
-http://tv3.triolan.com.ua:8888/udp/238.0.0.10:1234
-#EXTINF:0 tvg-name="Прямой HD" channel-id="10628" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636391653958757605.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Прямий HD
+#EXTINF:0 tvg-name="СТБ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152937746483215.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",СТБ HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.123:1234
+#EXTINF:0 tvg-name="Новый канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152940835771018.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Новый канал HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.125:1234
+#EXTINF:0 tvg-name="ICTV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152939712251816.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ICTV HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.124:1234
+#EXTINF:0 tvg-name="2+2" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637203426090666067.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",2+2 HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.142:1234
+#EXTINF:0 tvg-name="Интер" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813515308841990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Интер HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.17:1234
+#EXTINF:0 tvg-name="ТЕТ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=tet.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ТЕТ HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.141:1234
+#EXTINF:0 tvg-name="Прямой HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636391653958757605.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Прямий HD
 http://tv3.triolan.com.ua:8888/udp/238.0.16.1:1234
-#EXTINF:0 tvg-name="Travel+Adventure" channel-id="11047" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636777080327297902.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Travel and Adventure
-http://tv3.triolan.com.ua:8888/udp/238.0.0.132:1234
-#EXTINF:0 tvg-name="М1" channel-id="12120" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152941848529510.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М1 HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.126:1234
-#EXTINF:0 tvg-name="М2" channel-id="12121" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152948911162783.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М2 HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.127:1234
-#EXTINF:0 tvg-name="24 (Телеканал новостей 24) HD" channel-id="11007" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636434969124907142.jpeg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",24 канал HD
+#EXTINF:0 tvg-name="НАШ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637181419386583016.PNG&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",НАШ HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.177:1234
+#EXTINF:0 tvg-name="24 (Телеканал новостей 24) HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636434969124907142.jpeg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",24 канал HD
 http://tv3.triolan.com.ua:8888/udp/238.0.0.120:1234
-#EXTINF:0 tvg-name="Enter-фильм" channel-id="10895" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037860353108834.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Enter-фильм
-http://tv3.triolan.com.ua:8888/udp/238.0.0.21:1234
-#EXTINF:0 tvg-name="EU" channel-id="10967" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635961449687650644.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",EU Music HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.49:1234
-#EXTINF:0 tvg-name="Star Cinema HD" channel-id="11026" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530857312348082.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Cinema HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.105:1234
-#EXTINF:0 tvg-name="Star Family HD" channel-id="11028" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530860703319932.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Family HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.108:1234
-#EXTINF:0 tvg-name="Bolt" channel-id="11024" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637254006371308033.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Bolt HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.103:1234
-#EXTINF:0 tvg-name="ПлюсПлюс" channel-id="12133" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813520591313990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",ПлюсПлюс HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.130:1234
-#EXTINF:0 tvg-name="Nick Jr" channel-id="11061" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636742390813666789.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Nick Jr.
-http://tv3.triolan.com.ua:8888/udp/238.0.0.145:1234
-#EXTINF:0 tvg-name="NickToons" channel-id="12116" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135758959937433.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",NickToons
-http://tv3.triolan.com.ua:8888/udp/238.0.0.109:1234
-#EXTINF:0 tvg-name="Nickelodeon HD" channel-id="11060" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635272732940101135.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Nickelodeon HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.144:1234
-#EXTINF:0 tvg-name="НАШ" channel-id="12144" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637181419386583016.PNG&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",НАШ HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.153:1234
-#EXTINF:0 tvg-name="Мега" channel-id="10902" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813518822273990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Мега
-http://tv3.triolan.com.ua:8888/udp/238.0.0.34:1234
-#EXTINF:0 tvg-name="Nick Jr" channel-id="11009" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452030455758817.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Junior HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.117:1234
-#EXTINF:0 tvg-name="Niki Kids HD" channel-id="11011" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452032095951871.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Kids HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.115:1234
-#EXTINF:0 tvg-name="MusicBox UA" channel-id="10996" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636334708093200318.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",MusicBox HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.40:1234
-#EXTINF:0 tvg-name="Сонце" channel-id="10886" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813498508577990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Сонце
-http://tv3.triolan.com.ua:8888/udp/238.0.0.243:1234
-#EXTINF:0 tvg-name="ZIK HD" channel-id="11072" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636789233436984728.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",ZIK HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.16:1234
-#EXTINF:0 tvg-name="5 канал" channel-id="10007" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637143438326995265.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",5 канал
-http://tv3.triolan.com.ua:8888/udp/238.0.0.6:1234
-#EXTINF:0 tvg-name="SPIKE" channel-id="11063" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636742395484366669.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",SPIKE
-http://tv3.triolan.com.ua:8888/udp/238.0.0.147:1234
-#EXTINF:0 tvg-name="Film" channel-id="12114" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135756553966122.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",FilmUaDrama HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.86:1234
-#EXTINF:0 tvg-name="Кус Кус HD" channel-id="12112" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135755202416778.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Кус Кус HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.63:1234
-#EXTINF:0 tvg-name="Еспресо TV HD" channel-id="11021" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636516909234129363.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Еспресо TV HD
+#EXTINF:0 tvg-name="Еспресо TV HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636516909234129363.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Еспресо TV HD
 http://tv3.triolan.com.ua:8888/udp/238.0.0.38:1234
-#EXTINF:0 tvg-name="Индиго" channel-id="12124" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164046097259529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Индиго HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.111:1234
-#EXTINF:0 tvg-name="Трофей" channel-id="12101" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637116032594425673.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Трофей HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.88:1234
-#EXTINF:0 tvg-name="UA_Перший (спутник) HD" channel-id="11043" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636613628815790031.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",UA:Перший HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.65:1234
-#EXTINF:0 tvg-name="Xsport HD" channel-id="11098" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=xsport.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",XSport OTT HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.39:1234
-#EXTINF:0 tvg-name="Оце" channel-id="12122" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152957081861786.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Оце HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.128:1234
-#EXTINF:0 tvg-name="УНИАН ТВ" channel-id="12143" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813568977989990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Униан HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.150:1234
-#EXTINF:0 tvg-name="Сварожичи" channel-id="10874" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636664849380112379.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Сварожичи
-http://tv3.triolan.com.ua:8888/udp/238.0.0.76:1234
-#EXTINF:0 tvg-name="ПравдаТУТ" channel-id="10969" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635991782205210343.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",ПравдаТУТ HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.22:1234
-#EXTINF:0 tvg-name="Бигуди" channel-id="10928" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813550517261990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Бигуди
-http://tv3.triolan.com.ua:8888/udp/238.0.0.31:1234
-#EXTINF:0 tvg-name="4ever music" channel-id="11080" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636870420412472157.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",4ever Music HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.135:1234
-#EXTINF:0 tvg-name="Пиксель" channel-id="10894" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813510349133990.gif&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Пиксель
-http://tv3.triolan.com.ua:8888/udp/238.0.0.20:1234
-#EXTINF:0 tvg-name="Наука" channel-id="11015" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458311367238491.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Наука
-http://tv3.triolan.com.ua:8888/udp/238.0.0.92:1234
-#EXTINF:0 tvg-name="Эпоха HD" channel-id="12145" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461866774739677.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Эпоха HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.155:1234
-#EXTINF:0 tvg-name="Первый автомобильный HD" channel-id="12147" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813525844613990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Первый автомобильный HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.157:1234
-#EXTINF:0 tvg-name="Дача HD" channel-id="12146" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458307580372643.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Дача HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.156:1234
-#EXTINF:0 tvg-name="Фауна" channel-id="11018" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461869017736433.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Фауна
-http://tv3.triolan.com.ua:8888/udp/238.0.0.97:1234
-#EXTINF:0 tvg-name="Терра" channel-id="11016" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461864043924667.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Терра
-http://tv3.triolan.com.ua:8888/udp/238.0.0.95:1234
-#EXTINF:0 tvg-name="#НАШ HD" channel-id="10965" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037843719452834.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",#НАШ HD
-http://tv3.triolan.com.ua:8888/udp/238.0.1.87:1234
-#EXTINF:0 tvg-name="Перший Незалежний" channel-id="11099" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637089231228711800.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Перший Незалежний
-http://tv3.triolan.com.ua:8888/udp/238.0.0.161:1234
-#EXTINF:0 tvg-name="UKRlive HD" channel-id="11100" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637089236340831800.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",UKRlive HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.163:1234
-#EXTINF:0 tvg-name="Kyiv.live" channel-id="10938" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=kyiv_live.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Kyiv.live
-http://tv3.triolan.com.ua:8888/udp/238.0.0.77:1234
-#EXTINF:0 tvg-name="Рада" channel-id="10911" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813527964809990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Рада
-http://tv3.triolan.com.ua:8888/udp/238.0.0.66:1234
-#EXTINF:0 tvg-name="36.6 TV HD" channel-id="11084" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636910151087902432.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",36.6 TV HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.148:1234
-#EXTINF:0 tvg-name="Zoom" channel-id="10897" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813513221873990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Zoom
-http://tv3.triolan.com.ua:8888/udp/238.0.0.44:1234
-#EXTINF:0 tvg-name="Громадське" channel-id="11001" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636335413635796511.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Громадське ТБ HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.58:1234
-#EXTINF:0 tvg-name="Nautical Channel HD" channel-id="12104" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637123534084413805.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Развлечение",Nautical Channel HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.136:1234
-#EXTINF:0 tvg-name="OstWest" channel-id="12105" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637123535133981805.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",OstWest
-http://tv3.triolan.com.ua:8888/udp/238.0.0.137:1234
-#EXTINF:0 tvg-name="Zee TV" channel-id="12106" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637123536527997805.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Zee TV
-http://tv3.triolan.com.ua:8888/udp/238.0.0.138:1234
-#EXTINF:0 tvg-name="Настоящее время" channel-id="11058" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636662037091597716.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Настоящее время
-http://tv3.triolan.com.ua:8888/udp/238.0.0.254:1234
-#EXTINF:0 tvg-name="Украина 24" channel-id="12132" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637128151785564044.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Украина 24 HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.129:1234
-#EXTINF:0 tvg-name="4 канал HD" channel-id="11077" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637279900719982865.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",4 канал HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.134:1234
-#EXTINF:0 tvg-name="8 канал" channel-id="11071" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636789232221412728.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",8 канал HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.35:1234
-#EXTINF:0 tvg-name="ATR HD" channel-id="11073" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636789234579694728.jpeg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",ATR HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.18:1234
-#EXTINF:0 tvg-name="HDFASHION & Lifestyle" channel-id="10919" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636469371165090747.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",HDFashion
-http://tv3.triolan.com.ua:8888/udp/238.0.0.82:1234
-#EXTINF:0 tvg-name="OBOZ TV" channel-id="11012" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636455818782827339.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",OBOZ TV HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.119:1234
-#EXTINF:0 tvg-name="Megogo live HD" channel-id="11101" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637104679935853506.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",Megogo live HD
-http://tv3.triolan.com.ua:8888/udp/238.0.1.59:1234
-#EXTINF:0 tvg-name="Lale" channel-id="10932" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813555886937990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Lale
-http://tv3.triolan.com.ua:8888/udp/238.0.16.10:1234
-#EXTINF:0 tvg-name="Deutsche Welle (Deutsch)" channel-id="10961" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635864760366914258.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Deutsche Welle HD
-http://tv3.triolan.com.ua:8888/udp/238.0.1.4:1234
-#EXTINF:0 tvg-name="France 24 Eng" channel-id="10883" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813495379685990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",France 24 Eng
-http://tv3.triolan.com.ua:8888/udp/238.0.1.57:1234
-#EXTINF:0 tvg-name="France 24 Fra" channel-id="10764" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635448270657644866.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",France 24 Fra
-http://tv3.triolan.com.ua:8888/udp/238.0.1.48:1234
-#EXTINF:0 tvg-name="France 24 Ara" channel-id="10971" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636014121781139490.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",France 24 Ara
-http://tv3.triolan.com.ua:8888/udp/238.0.1.245:1234
-#EXTINF:0 tvg-name="Triolan BIZ" channel-id="10878" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813490605929990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Triolan BIZ
-http://tv3.triolan.com.ua:8888/udp/238.0.1.2:1234
-#EXTINF:0 tvg-name="Triolan INFO" channel-id="10941" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635817910310582417.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Triolan INFO
-http://tv3.triolan.com.ua:8888/udp/238.0.1.39:1234
-#EXTINF:0 tvg-name="Телевсесвіт HD" channel-id="11075" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636789240399706728.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Телевсесвіт HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.133:1234
-#EXTINF:0 tvg-name="Черноморская ТРК" channel-id="10946" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813571678817990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Черноморская ТРК
-http://tv3.triolan.com.ua:8888/udp/238.0.16.46:1234
-#EXTINF:0 tvg-name="ЧП" channel-id="10137" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=143.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",ЧП.INFO
-http://tv3.triolan.com.ua:8888/udp/238.0.1.41:1234
-#EXTINF:0 tvg-name="Эко-ТВ HD" channel-id="12137" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813212307340768.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Эко-ТВ HD
-http://tv3.triolan.com.ua:8888/udp/238.0.1.162:1234
-#EXTINF:0 tvg-name="Первый деловой" channel-id="10908" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636367461452070740.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Первый деловой
-http://tv3.triolan.com.ua:8888/udp/238.0.0.29:1234
-#EXTINF:0 tvg-name="Перший західний" channel-id="10830" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636311408219444775.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Перший західний
-http://tv3.triolan.com.ua:8888/udp/238.0.1.29:1234
-#EXTINF:0 tvg-name="Киев" channel-id="10061" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637305080995121273.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Киев
-http://tv3.triolan.com.ua:8888/udp/238.0.0.15:1234
-#EXTINF:0 tvg-name="OTV" channel-id="10876" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635899344667101202.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Музыка",OTV
-http://tv3.triolan.com.ua:8888/udp/238.0.1.160:1234
-#EXTINF:0 tvg-name="Беларусь 24" channel-id="11078" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636815070151705361.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Беларусь 24 HD
+#EXTINF:0 tvg-name="Украина 24" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637128151785564044.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Украина 24 HD
 http://tv3.triolan.com.ua:8888/udp/238.0.0.149:1234
-#EXTINF:0 tvg-name="Белсат" channel-id="10640" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636360511211938618.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Обще-развлекательный",Белсат ТБ
-http://tv3.triolan.com.ua:8888/udp/238.0.0.68:1234
-#EXTINF:0 tvg-name="Винтаж" channel-id="10916" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813534739265990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Винтаж
-http://tv3.triolan.com.ua:8888/udp/238.0.0.227:1234
-#EXTINF:0 tvg-name="ОТБ `Галичина`" channel-id="10992" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636329455077669182.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Галичина
-http://tv3.triolan.com.ua:8888/udp/238.0.0.48:1234
-#EXTINF:0 tvg-name="Глас" channel-id="10879" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813491831621990.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",Глас
-http://tv3.triolan.com.ua:8888/udp/238.0.0.24:1234
-#EXTINF:0 tvg-name="Малятко TV" channel-id="10225" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=sdfa.png&div=1" aspect-ratio=4:3 groups="Все каналы|Детский",Малятко TV
-http://tv3.triolan.com.ua:8888/udp/238.0.1.165:1234
-#EXTINF:0 tvg-name="Надия" channel-id="10925" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813547475417990.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Надiя
-http://tv3.triolan.com.ua:8888/udp/238.0.0.240:1234
-#EXTINF:0 tvg-name="Наталі" channel-id="10884" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636583428742718343.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Наталі
-http://tv3.triolan.com.ua:8888/udp/238.0.0.25:1234
-#EXTINF:0 tvg-name="Новый христианский" channel-id="10982" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636192217875777334.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",Новый христианский
-http://tv3.triolan.com.ua:8888/udp/238.0.0.96:1234
-#EXTINF:0 tvg-name="НТА" channel-id="10995" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636334702853780318.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",НТА
-http://tv3.triolan.com.ua:8888/udp/238.0.0.60:1234
-#EXTINF:0 tvg-name="BOUTIQUE TV" channel-id="10890" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635841213281006563.png&div=1" aspect-ratio=4:3 groups="Все каналы|Для женщин",BOUTIQUE TV
-http://tv3.triolan.com.ua:8888/udp/238.0.1.61:1234
-#EXTINF:0 tvg-name="CNL Украина" channel-id="10923" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813545744597990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",CNL TV
-http://tv3.triolan.com.ua:8888/udp/238.0.1.60:1234
-#EXTINF:0 tvg-name="EWTN" channel-id="11004" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636383773517643318.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",EWTN
-http://tv3.triolan.com.ua:8888/udp/238.0.16.99:1234
-#EXTINF:0 tvg-name="Genuine TV" channel-id="10377" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637089214359686408.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Genuine TV
-http://tv3.triolan.com.ua:8888/udp/238.0.0.56:1234
-#EXTINF:0 tvg-name="Milady Television" channel-id="10921" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813540145133990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Mi Lady
-http://tv3.triolan.com.ua:8888/udp/238.0.0.198:1234
-#EXTINF:0 tvg-name="Караван ТВ" channel-id="10198" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636211187914483419.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Караван ТВ
-http://tv3.triolan.com.ua:8888/udp/238.0.1.26:1234
-#EXTINF:0 tvg-name="Зоряний" channel-id="12130" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637203429771377255.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Зоряний
-http://tv3.triolan.com.ua:8888/udp/238.0.0.45:1234
-#EXTINF:0 tvg-name="Апостроф TV HD" channel-id="12139" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=apostroftv.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Апостроф TV HD
-http://tv3.triolan.com.ua:8888/udp/238.0.16.15:1234
-#EXTINF:0 tvg-name="Ісландія HD" channel-id="12141" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=iceland_hd.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Ісландія HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.99:1234
-#EXTINF:0 tvg-name="SHAKHTAR TV HD" channel-id="12142" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=shakhtar.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",SHAKHTAR TV HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.166:1234
-#EXTINF:0 tvg-name="Fashion TV UA HD" channel-id="12150" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=fashion.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Fashion TV UA HD
-http://tv3.triolan.com.ua:8888/udp/238.0.16.116:1234
-#EXTINF:0 tvg-name="English Club TV HD" channel-id="12152" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=english-club.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",English Club TV HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.159:1234
-#EXTINF:0 tvg-name="InRating HD" channel-id="12153" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=inrating.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",InRating HD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.162:1234
-#EXTINF:0 tvg-name="УНТ-Інформ" channel-id="12136" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637203429771377256.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",УНТ-Інформ
-http://tv3.triolan.com.ua:8888/udp/238.0.0.152:1234
-#EXTINF:0 tvg-name="UA_Донбас" channel-id="10993" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700929290171119.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",UA:Донбас
-http://tv3.triolan.com.ua:8888/udp/238.0.0.51:1234
-#EXTINF:0 tvg-name="UA:Закарпаття" channel-id="10931" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037845561500834.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",UA:Закарпаття
-http://tv3.triolan.com.ua:8888/udp/238.0.0.75:1234
-#EXTINF:0 tvg-name="UA_Крим" channel-id="10626" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636311489933356517.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",UA:Крим
-http://tv3.triolan.com.ua:8888/udp/238.0.16.45:1234
-#EXTINF:0 tvg-name="UA_Культура" channel-id="10901" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813517959749990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",UA:Культура
-http://tv3.triolan.com.ua:8888/udp/238.0.0.171:1234
-#EXTINF:0 tvg-name="11 канал" channel-id="10197" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635307517195792958.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",11 канал
-http://tv3.triolan.com.ua:8888/udp/238.0.66.23:1234
-#EXTINF:0 tvg-name="34 канал (Днепропетровск)" channel-id="10893" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813508853717990.jpg&div=1" aspect-ratio=4:4 groups="Все каналы|Разное",34 канал
-http://tv3.triolan.com.ua:8888/udp/238.0.66.22:1234
-#EXTINF:0 tvg-name="41-й канал" channel-id="10191" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700913849093159.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",41-й канал
-http://tv3.triolan.com.ua:8888/udp/238.0.66.24:1234
-#EXTINF:0 tvg-name="51 канал" channel-id="10562" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700925887611497.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",51 канал
-http://tv3.triolan.com.ua:8888/udp/238.0.66.27:1234
-#EXTINF:0 tvg-name="9 канал" channel-id="10010" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=611_(17).png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",9 канал
-http://tv3.triolan.com.ua:8888/udp/238.0.66.21:1234
-#EXTINF:0 tvg-name="Nobel TV" channel-id="10196" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700922136543407.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Nobel TV
-http://tv3.triolan.com.ua:8888/udp/238.0.66.25:1234
-#EXTINF:0 tvg-name="Регіон" channel-id="10481" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635307434714068958.jpeg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Регіон
-http://tv3.triolan.com.ua:8888/udp/238.0.66.232:1234
-#EXTINF:0 tvg-name="ИРТ" channel-id="10615" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635392125696099289.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",ИРТ
-http://tv3.triolan.com.ua:8888/udp/238.0.66.230:1234
-#EXTINF:0 tvg-name="Відкритий" channel-id="11079" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636858311230583354.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Відкритий
-http://tv3.triolan.com.ua:8888/udp/239.10.1.1:3000
-#EXTINF:0 tvg-name="ДніпроTV" channel-id="11042" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636582063019820663.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",ДніпроTV
-http://tv3.triolan.com.ua:8888/udp/238.0.0.140:1234
-#EXTINF:0 tvg-name="Донбасс" channel-id="10664" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635398200390498802.jpeg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Донбасс
-http://tv3.triolan.com.ua:8888/udp/238.0.0.106:1234
-#EXTINF:0 tvg-name="ОТВ" channel-id="10970" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636008892707318677.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",ОТВ
-http://tv3.triolan.com.ua:8888/udp/238.0.66.231:1234
-#EXTINF:0 tvg-name="UR-1" channel-id="10975" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166357742488806.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Радио",UR-1
-http://tv3.triolan.com.ua:8888/udp/238.0.16.3:1234
-#EXTINF:0 tvg-name="UR-3" channel-id="10977" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166359342424806.png&div=1" aspect-ratio=4:3 groups="Все каналы|Радио",UR-3
-http://tv3.triolan.com.ua:8888/udp/238.0.16.5:1234
-#EXTINF:0 tvg-name="Radio Promin" channel-id="10976" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166355515704806.gif&div=1" aspect-ratio=4:3 groups="Все каналы|Радио",Radio Promin
-http://tv3.triolan.com.ua:8888/udp/238.0.16.4:1234
-#EXTINF:0 tvg-name="1+1" channel-id="10892" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813508058741990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",1+1
-http://tv3.triolan.com.ua:8888/udp/238.0.0.3:1234
-#EXTINF:0 tvg-name="Украина" channel-id="10115" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635743705373893870.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Украина
-http://tv3.triolan.com.ua:8888/udp/238.0.0.9:1234
-#EXTINF:0 tvg-name="112 Украина" channel-id="10917" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813535474181990.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",112 Украина
-http://tv3.triolan.com.ua:8888/udp/238.0.0.196:1234
-#EXTINF:0 tvg-name="NewsOne" channel-id="10875" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635899345987797202.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",NewsOne
-http://tv3.triolan.com.ua:8888/udp/238.0.0.27:1234
-#EXTINF:0 tvg-name="24 (Телеканал новостей 24)" channel-id="10920" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813539154689990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",24 канал
-http://tv3.triolan.com.ua:8888/udp/238.0.0.28:1234
-#EXTINF:0 tvg-name="EU" channel-id="10910" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635820542098787892.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",EU music
-http://tv3.triolan.com.ua:8888/udp/238.0.0.43:1234
-#EXTINF:0 tvg-name="Star Cinema" channel-id="11025" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530855147892905.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Cinema
-http://tv3.triolan.com.ua:8888/udp/238.0.0.104:1234
-#EXTINF:0 tvg-name="Star Family" channel-id="11027" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530859585314631.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Family
-http://tv3.triolan.com.ua:8888/udp/238.0.0.107:1234
-#EXTINF:0 tvg-name="Bolt" channel-id="11023" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637254006371308033.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Bolt
-http://tv3.triolan.com.ua:8888/udp/238.0.0.102:1234
-#EXTINF:0 tvg-name="Nickelodeon СНГ" channel-id="11062" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636742393430756341.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Nickelodeon
-http://tv3.triolan.com.ua:8888/udp/238.0.0.146:1234
-#EXTINF:0 tvg-name="Nick Jr" channel-id="11008" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452029347698586.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Junior SD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.116:1234
-#EXTINF:0 tvg-name="Niki Kids SD" channel-id="11010" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452031354516342.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Kids SD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.114:1234
-#EXTINF:0 tvg-name="ZIK" channel-id="10880" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636231901163046757.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",ZIK
-http://tv3.triolan.com.ua:8888/udp/238.0.0.69:1234
-#EXTINF:0 tvg-name="Film" channel-id="12113" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135756553966122.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",FilmUaDrama
-http://tv3.triolan.com.ua:8888/udp/238.0.0.67:1234
-#EXTINF:0 tvg-name="Кус Кус" channel-id="12111" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135755202416778.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Кус Кус
-http://tv3.triolan.com.ua:8888/udp/238.0.0.55:1234
-#EXTINF:0 tvg-name="Еспресо TV" channel-id="10441" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635497318238829506.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Еспресо TV
-http://tv3.triolan.com.ua:8888/udp/238.0.0.30:1234
-#EXTINF:0 tvg-name="Трофей" channel-id="10634" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458316728891591.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Трофей
-http://tv3.triolan.com.ua:8888/udp/238.0.0.90:1234
-#EXTINF:0 tvg-name="UA:Перший" channel-id="10560" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635743716087679418.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",UA:Перший
-http://tv3.triolan.com.ua:8888/udp/238.0.0.19:1234
-#EXTINF:0 tvg-name="ПравдаТУТ" channel-id="10950" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635895906542965459.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",ПравдаТУТ
-http://tv3.triolan.com.ua:8888/udp/238.0.1.54:1234
-#EXTINF:0 tvg-name="#НАШ" channel-id="11006" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037843719452834.png&div=1" aspect-ratio=4:3 groups="Все каналы|Музыка",#НАШ
-http://tv3.triolan.com.ua:8888/udp/238.0.0.100:1234
-#EXTINF:0 tvg-name="36.6 TV SD" channel-id="11083" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636910151087902432.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",36.6 TV SD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.61:1234
-#EXTINF:0 tvg-name="Громадське" channel-id="10986" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636244849221300918.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Громадське ТБ
-http://tv3.triolan.com.ua:8888/udp/238.0.0.112:1234
-#EXTINF:0 tvg-name="4 канал" channel-id="10948" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637279900719982865.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",4 канал
-http://tv3.triolan.com.ua:8888/udp/238.0.0.167:1234
-#EXTINF:0 tvg-name="ATR" channel-id="10915" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813533566301990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",ATR
-http://tv3.triolan.com.ua:8888/udp/238.0.0.228:1234
-#EXTINF:0 tvg-name="OBOZ TV" channel-id="11013" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636455816510025901.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",OBOZ TV SD
-http://tv3.triolan.com.ua:8888/udp/238.0.0.12:1234
-#EXTINF:0 tvg-name="Deutsche Welle (Deutsch)" channel-id="10972" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636014128796303490.gif&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",DW
+#EXTINF:0 tvg-name="5 канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637143438326995265.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",5 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.0.6:1234
+#EXTINF:0 tvg-name="4 канал HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637279900719982865.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",4 канал HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.134:1234
+#EXTINF:0 tvg-name="УНИАН ТВ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813568977989990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Униан HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.150:1234
+#EXTINF:0 tvg-name="Рада" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813527964809990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Рада
+http://tv3.triolan.com.ua:8888/udp/238.0.0.66:1234
+#EXTINF:0 tvg-name="UA:Перший" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636613628815790031.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",UA:Перший HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.65:1234
+#EXTINF:0 tvg-name="ПравдаТУТ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635991782205210343.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",ПравдаТУТ HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.22:1234
+#EXTINF:0 tvg-name="Live" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=live.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",LIVE HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.178:1234
+#EXTINF:0 tvg-name="Первый деловой" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=logo_fbc_ukr.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Перший діловий
+http://tv3.triolan.com.ua:8888/udp/238.0.0.29:1234
+#EXTINF:0 tvg-name="ЧП.INFO" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=143.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",ЧП.INFO
+http://tv3.triolan.com.ua:8888/udp/238.0.1.41:1234
+#EXTINF:0 tvg-name="OBOZREVATEL" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636455818782827339.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",OBOZ TV HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.119:1234
+#EXTINF:0 tvg-name="France 24 English" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=france24_en.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",France 24 Eng
+http://tv3.triolan.com.ua:8888/udp/238.0.1.57:1234
+#EXTINF:0 tvg-name="France 24 Francais" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=france24_fr.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",France 24 Fra
+http://tv3.triolan.com.ua:8888/udp/238.0.1.48:1234
+#EXTINF:0 tvg-name="France 24 Arabian" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=france24_ar.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",France 24 Ara
+http://tv3.triolan.com.ua:8888/udp/238.0.1.245:1234
+#EXTINF:0 tvg-name="DW Deutsch" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636014128796303490.gif&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",DW
 http://tv3.triolan.com.ua:8888/udp/238.0.2.224:1234
-#EXTINF:0 tvg-name="Телевсесвіт" channel-id="10960" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635844912930114530.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Телевсесвіт
-http://tv3.triolan.com.ua:8888/udp/238.0.1.156:1234
-#EXTINF:0 tvg-name="ICTV" channel-id="10023" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636420189249735782.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ICTV
-http://tv3.triolan.com.ua:8888/udp/238.0.0.5:1234
-#EXTINF:0 tvg-name="Новый канал" channel-id="10075" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636673269065500626.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Новый канал
-http://tv3.triolan.com.ua:8888/udp/238.0.0.7:1234
-#EXTINF:0 tvg-name="СТБ" channel-id="10104" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=111.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",СТБ
-http://tv3.triolan.com.ua:8888/udp/238.0.0.8:1234
-#EXTINF:0 tvg-name="М1" channel-id="10068" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=75.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М1
-http://tv3.triolan.com.ua:8888/udp/238.0.0.14:1234
-#EXTINF:0 tvg-name="М2" channel-id="10622" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152945036097943.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М2
-http://tv3.triolan.com.ua:8888/udp/238.0.0.46:1234
-#EXTINF:0 tvg-name="Оце" channel-id="10128" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152956437587029.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Оце
-http://tv3.triolan.com.ua:8888/udp/238.0.0.33:1234
-#EXTINF:0 tvg-name="2+2" channel-id="10906" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813523496657990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",2+2
-http://tv3.triolan.com.ua:8888/udp/238.0.0.50:1234
-#EXTINF:0 tvg-name="ТЕТ" channel-id="10905" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813521887049990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ТЕТ
-http://tv3.triolan.com.ua:8888/udp/238.0.0.11:1234
-#EXTINF:0 tvg-name="MusicBox UA" channel-id="10887" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813499229921990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",MusicBox UA
-http://tv3.triolan.com.ua:8888/udp/238.0.0.118:1234
-#EXTINF:0 tvg-name="Украина 24" channel-id="10436" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637128151785564044.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Украина 24
-http://tv3.triolan.com.ua:8888/udp/238.0.0.225:1234
-#EXTINF:0 tvg-name="ПлюсПлюс" channel-id="10904" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813520591313990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",ПлюсПлюс
-http://tv3.triolan.com.ua:8888/udp/238.0.0.17:1234
-#EXTINF:0 tvg-name="TV1000 Action CEE" channel-id="10039" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635739502612860382.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",TV1000 Action
+#EXTINF:0 tvg-name="DW English" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635864760366914258.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Deutsche Welle HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.4:1234
+#EXTINF:0 tvg-name="Апостроф TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=apostroftv.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Апостроф TV HD
+http://tv3.triolan.com.ua:8888/udp/238.0.16.15:1234
+#EXTINF:0 tvg-name="UKRlive HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637089236340831800.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",UKRlive HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.163:1234
+#EXTINF:0 tvg-name="Футбол 1" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636500755928469971.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Футбол 1
+http://tv3.triolan.com.ua:8888/udp/238.0.0.80:1234
+#EXTINF:0 tvg-name="Футбол 2" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635405990942405783.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Футбол 2
+http://tv3.triolan.com.ua:8888/udp/238.0.0.81:1234
+#EXTINF:0 tvg-name="Setanta Sports Ukraine" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=setanta.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Setanta Sports HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.176:1234
+#EXTINF:0 tvg-name="Viasat Sport Россия" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635308270151643291.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Viasat Sport East
+http://tv3.triolan.com.ua:8888/udp/238.0.1.12:1234
+#EXTINF:0 tvg-name="Футбол 3" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164050047491529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Футбол 3 HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.200:1234
+#EXTINF:0 tvg-name="Xsport HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=xsport.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Xsport HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.57:1234
+#EXTINF:0 tvg-name="Xsport+ Promo" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=xsport_plus.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Xsport+ Promo
+http://tv3.triolan.com.ua:8888/udp/238.0.0.244:1234
+#EXTINF:0 tvg-name="SHAKHTAR TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=shakhtar.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",SHAKHTAR TV HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.166:1234
+#EXTINF:0 tvg-name="Viasat History CEE" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166335715110806.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Viasat History
+http://tv3.triolan.com.ua:8888/udp/238.0.1.10:1234
+#EXTINF:0 tvg-name="Viasat Explore CEE" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166330980278806.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Viasat Explore
+http://tv3.triolan.com.ua:8888/udp/238.0.1.8:1234
+#EXTINF:0 tvg-name="Viasat Nature CEE" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637177084018353114.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Viasat Nature
+http://tv3.triolan.com.ua:8888/udp/238.0.1.7:1234
+#EXTINF:0 tvg-name="National Geographic" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135749106757358.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",National Geographic Channel (NGC)
+http://tv3.triolan.com.ua:8888/udp/238.0.0.54:1234
+#EXTINF:0 tvg-name="History Европа" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636777077956409902.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Тhe History Channel Europe HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.131:1234
+#EXTINF:0 tvg-name="Мега" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813518822273990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Мега HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.22:1234
+#EXTINF:0 tvg-name="Travel+Adventure" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636777080327297902.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Travel and Adventure
+http://tv3.triolan.com.ua:8888/udp/238.0.0.132:1234
+#EXTINF:0 tvg-name="Nat Geo Wild" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135747285457358.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Nat Geo Wild
+http://tv3.triolan.com.ua:8888/udp/238.0.0.53:1234
+#EXTINF:0 tvg-name="Первый автомобильный HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813525844613990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Первый автомобильный HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.157:1234
+#EXTINF:0 tvg-name="Фауна" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461869017736433.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Фауна
+http://tv3.triolan.com.ua:8888/udp/238.0.0.97:1234
+#EXTINF:0 tvg-name="Наука" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458311367238491.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Наука
+http://tv3.triolan.com.ua:8888/udp/238.0.0.92:1234
+#EXTINF:0 tvg-name="Дача HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458307580372643.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Дача HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.156:1234
+#EXTINF:0 tvg-name="Epoque" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461866774739677.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Эпоха HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.155:1234
+#EXTINF:0 tvg-name="Терра" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461864043924667.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Терра
+http://tv3.triolan.com.ua:8888/udp/238.0.0.95:1234
+#EXTINF:0 tvg-name="Кус-Кус" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135755202416778.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Кус Кус HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.63:1234
+#EXTINF:0 tvg-name="Трофей" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637116032594425673.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Трофей HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.88:1234
+#EXTINF:0 tvg-name="Рыбалка" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164052021359529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Рибалка
+http://tv3.triolan.com.ua:8888/udp/238.0.0.52:1234
+#EXTINF:0 tvg-name="36.6 TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636910151087902432.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",36.6 TV HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.148:1234
+#EXTINF:0 tvg-name="Eco TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813212307340768.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Эко-ТВ HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.162:1234
+#EXTINF:0 tvg-name="English Club TV HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=english-club.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",English Club TV HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.159:1234
+#EXTINF:0 tvg-name="Nick Jr" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452030455758817.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Junior HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.117:1234
+#EXTINF:0 tvg-name="ПлюсПлюс" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813520591313990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",ПлюсПлюс HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.130:1234
+#EXTINF:0 tvg-name="Nickelodeon СНГ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635272732940101135.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Nickelodeon HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.144:1234
+#EXTINF:0 tvg-name="Nick Jr" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636742390813666789.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Nick Jr.
+http://tv3.triolan.com.ua:8888/udp/238.0.0.145:1234
+#EXTINF:0 tvg-name="Niki Kids HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452032095951871.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Kids HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.115:1234
+#EXTINF:0 tvg-name="Пиксель" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813510349133990.gif&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Пиксель HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.19:1234
+#EXTINF:0 tvg-name="NickToons" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135758959937433.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",NickToons
+http://tv3.triolan.com.ua:8888/udp/238.0.0.109:1234
+#EXTINF:0 tvg-name="Малятко TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=sdfa.png&div=1" aspect-ratio=4:3 groups="Все каналы|Детский",Малятко TV
+http://tv3.triolan.com.ua:8888/udp/238.0.1.165:1234
+#EXTINF:0 tvg-name="Lale" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813555886937990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Lale
+http://tv3.triolan.com.ua:8888/udp/238.0.16.10:1234
+#EXTINF:0 tvg-name="Kinokazka HD PROMO" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=kinokazka.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Kinokazka HD PROMO
+http://tv3.triolan.com.ua:8888/udp/238.0.1.25:1234
+#EXTINF:0 tvg-name="TV1000 Action CEE" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635739502612860382.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",TV1000 Action HD
 http://tv3.triolan.com.ua:8888/udp/238.0.1.6:1234
-#EXTINF:0 tvg-name="ViP Comedy CEE HD" channel-id="10575" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636445983606641257.png&div=1" aspect-ratio=16:9 groups="Все каналы|Развлечение",ViP Comedy
-http://tv3.triolan.com.ua:8888/udp/238.0.1.11:1234
-#EXTINF:0 tvg-name="TV1000 CEE" channel-id="10300" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637254008570468227.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",TV1000 East
+#EXTINF:0 tvg-name="TV1000 CEE" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637254008570468227.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",TV1000 East HD
 http://tv3.triolan.com.ua:8888/udp/238.0.1.5:1234
-#EXTINF:0 tvg-name="Эко-ТВ" channel-id="10877" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813212307340768.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Эко-ТВ
-http://tv3.triolan.com.ua:8888/udp/238.0.1.163:1234
-#EXTINF:0 tvg-name="УНИАН ТВ" channel-id="10943" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813568977989990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Униан
+#EXTINF:0 tvg-name="ViP Comedy CEE HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636445983606641257.png&div=1" aspect-ratio=16:9 groups="Все каналы|Развлечение",ViP Comedy HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.11:1234
+#EXTINF:0 tvg-name="TV1000 World Kino" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636319893506463199.png&div=1" aspect-ratio=4:3 groups="Все каналы|Фильмы",TV1000 World Kino
+http://tv3.triolan.com.ua:8888/udp/238.0.1.9:1234
+#EXTINF:0 tvg-name="Epic Drama" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636560138413644182.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Epic Drama HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.13:1234
+#EXTINF:0 tvg-name="Star Family HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530860703319932.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Family HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.108:1234
+#EXTINF:0 tvg-name="Bolt" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637254006371308033.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Bolt HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.103:1234
+#EXTINF:0 tvg-name="Enter-фильм" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037860353108834.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Enter-фильм HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.24:1234
+#EXTINF:0 tvg-name="Star Cinema HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530857312348082.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Cinema HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.105:1234
+#EXTINF:0 tvg-name="FOX" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135723534613358.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",FOX
+http://tv3.triolan.com.ua:8888/udp/238.0.0.41:1234
+#EXTINF:0 tvg-name="Paramount channel Россия" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135758003819562.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Paramount Channel
+http://tv3.triolan.com.ua:8888/udp/238.0.0.87:1234
+#EXTINF:0 tvg-name="Paramount Comedy Украина" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636501391636277852.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Paramount Comedy
+http://tv3.triolan.com.ua:8888/udp/238.0.0.42:1234
+#EXTINF:0 tvg-name="Film.Ua Drama HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135756553966122.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",FilmUaDrama HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.86:1234
+#EXTINF:0 tvg-name="Бигуди" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813550517261990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Бигуди
+http://tv3.triolan.com.ua:8888/udp/238.0.0.31:1234
+#EXTINF:0 tvg-name="М1" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152941848529510.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М1 HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.126:1234
+#EXTINF:0 tvg-name="EU.Music" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635961449687650644.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",EU Music HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.49:1234
+#EXTINF:0 tvg-name="MusicBox UA" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636334708093200318.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",MusicBox UA HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.40:1234
+#EXTINF:0 tvg-name="4ever music" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636870420412472157.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",4ever Music HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.135:1234
+#EXTINF:0 tvg-name="М2" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152948911162783.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М2 HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.127:1234
+#EXTINF:0 tvg-name="OTV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635899344667101202.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Музыка",OTV
+http://tv3.triolan.com.ua:8888/udp/238.0.1.160:1234
+#EXTINF:0 tvg-name="#НАШ канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037843719452834.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",#НАШ HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.87:1234
+#EXTINF:0 tvg-name="Megogo Live" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637104679935853506.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",Megogo live HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.59:1234
+#EXTINF:0 tvg-name="InRating" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=inrating.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",InRating HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.162:1234
+#EXTINF:0 tvg-name="К1" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813515977457990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",К1 HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.20:1234
+#EXTINF:0 tvg-name="НЛО TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164043686591529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",НЛО TV HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.110:1234
+#EXTINF:0 tvg-name="Квартал ТВ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530842289167161.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Развлечение",Kvartal TV
+http://tv3.triolan.com.ua:8888/udp/238.0.0.101:1234
+#EXTINF:0 tvg-name="НТН" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813519553757990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",НТН HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.18:1234
+#EXTINF:0 tvg-name="Сонце" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813498508577990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Сонце
+http://tv3.triolan.com.ua:8888/udp/238.0.0.243:1234
+#EXTINF:0 tvg-name="К2" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813516636713990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",К2 HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.21:1234
+#EXTINF:0 tvg-name="Оце" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152957081861786.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Оце HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.128:1234
+#EXTINF:0 tvg-name="Индиго" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164046097259529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Индиго HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.111:1234
+#EXTINF:0 tvg-name="Зоряний" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637203429771377255.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Зоряний
+http://tv3.triolan.com.ua:8888/udp/238.0.0.45:1234
+#EXTINF:0 tvg-name="Сварожичи" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636664849380112379.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Сварожичи
+http://tv3.triolan.com.ua:8888/udp/238.0.0.76:1234
+#EXTINF:0 tvg-name="ATR HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636789234579694728.jpeg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",ATR HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.18:1234
+#EXTINF:0 tvg-name="Белсат" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636360511211938618.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Обще-развлекательный",Белсат ТБ
+http://tv3.triolan.com.ua:8888/udp/238.0.0.68:1234
+#EXTINF:0 tvg-name="Телевсесвіт HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636789240399706728.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Телевсесвіт HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.133:1234
+#EXTINF:0 tvg-name="Zoom" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813513221873990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Zoom HD
+http://tv3.triolan.com.ua:8888/udp/238.0.1.23:1234
+#EXTINF:0 tvg-name="Перший західний" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636311408219444775.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Перший західний
+http://tv3.triolan.com.ua:8888/udp/238.0.1.29:1234
+#EXTINF:0 tvg-name="Киев HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Киев HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.179:1234
+#EXTINF:0 tvg-name="HDFASHION & Lifestyle" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636469371165090747.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",HDFashion
+http://tv3.triolan.com.ua:8888/udp/238.0.0.82:1234
+#EXTINF:0 tvg-name="Fashion TV UA HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=fashion.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Fashion TV UA HD
+http://tv3.triolan.com.ua:8888/udp/238.0.16.116:1234
+#EXTINF:0 tvg-name="ОТБ `Галичина`" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636329455077669182.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Галичина
+http://tv3.triolan.com.ua:8888/udp/238.0.0.48:1234
+#EXTINF:0 tvg-name="Черноморская ТРК" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813571678817990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Черноморская ТРК
+http://tv3.triolan.com.ua:8888/udp/238.0.16.46:1234
+#EXTINF:0 tvg-name="Настоящее время" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636662037091597716.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Настоящее время
+http://tv3.triolan.com.ua:8888/udp/238.0.0.254:1234
+#EXTINF:0 tvg-name="8 канал (Украина)" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636789232221412728.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",8 канал HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.35:1234
+#EXTINF:0 tvg-name="UA_Культура" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813517959749990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",UA:Культура
+http://tv3.triolan.com.ua:8888/udp/238.0.0.171:1234
+#EXTINF:0 tvg-name="UA_Крим" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636311489933356517.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",UA:Крим
+http://tv3.triolan.com.ua:8888/udp/238.0.16.45:1234
+#EXTINF:0 tvg-name="UA_Донбас" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700929290171119.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",UA:Донбас
+http://tv3.triolan.com.ua:8888/udp/238.0.0.51:1234
+#EXTINF:0 tvg-name="UA:Закарпаття" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037845561500834.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",UA:Закарпаття
+http://tv3.triolan.com.ua:8888/udp/238.0.0.75:1234
+#EXTINF:0 tvg-name="Донбасс" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635398200390498802.jpeg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Донбасс
+http://tv3.triolan.com.ua:8888/udp/238.0.0.106:1234
+#EXTINF:0 tvg-name="Nobel TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700922136543407.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Nobel TV
+http://tv3.triolan.com.ua:8888/udp/238.0.66.25:1234
+#EXTINF:0 tvg-name="9 канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=611_(17).png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",9 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.66.21:1234
+#EXTINF:0 tvg-name="Уніан Дніпро" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813568977989990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Уніан Дніпро
+http://tv3.triolan.com.ua:8888/udp/238.0.66.28:1234
+#EXTINF:0 tvg-name="41-й канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700913849093159.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",41-й канал
+http://tv3.triolan.com.ua:8888/udp/238.0.66.24:1234
+#EXTINF:0 tvg-name="11 канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635307517195792958.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",11 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.66.23:1234
+#EXTINF:0 tvg-name="Регіон" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635307434714068958.jpeg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Регіон
+http://tv3.triolan.com.ua:8888/udp/238.0.66.232:1234
+#EXTINF:0 tvg-name="ОТВ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636008892707318677.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",ОТВ
+http://tv3.triolan.com.ua:8888/udp/238.0.66.231:1234
+#EXTINF:0 tvg-name="ИРТ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635392125696099289.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",ИРТ
+http://tv3.triolan.com.ua:8888/udp/238.0.66.230:1234
+#EXTINF:0 tvg-name="Відкритий" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636858311230583354.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Відкритий
+http://tv3.triolan.com.ua:8888/udp/239.10.1.1:3000
+#EXTINF:0 tvg-name="ДніпроTV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636582063019820663.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",ДніпроTV
+http://tv3.triolan.com.ua:8888/udp/238.0.0.140:1234
+#EXTINF:0 tvg-name="51 канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636700925887611497.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",51 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.66.27:1234
+#EXTINF:0 tvg-name="34 канал (Днепропетровск)" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813508853717990.jpg&div=1" aspect-ratio=4:4 groups="Все каналы|Разное",34 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.66.22:1234
+#EXTINF:0 tvg-name="УНТ-Інформ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637203429771377256.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",УНТ-Інформ
+http://tv3.triolan.com.ua:8888/udp/238.0.0.152:1234
+#EXTINF:0 tvg-name="TV5 (Запорожье)" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635288380350430540.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",TV5
+http://tv3.triolan.com.ua:8888/udp/238.0.0.182:1234
+#EXTINF:0 tvg-name="Radio Promin" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166355515704806.gif&div=1" aspect-ratio=4:3 groups="Все каналы|Радио",Radio Promin
+http://tv3.triolan.com.ua:8888/udp/238.0.16.4:1234
+#EXTINF:0 tvg-name="UR-1" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166357742488806.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Радио",UR-1
+http://tv3.triolan.com.ua:8888/udp/238.0.16.3:1234
+#EXTINF:0 tvg-name="UR-3" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636166359342424806.png&div=1" aspect-ratio=4:3 groups="Все каналы|Радио",UR-3
+http://tv3.triolan.com.ua:8888/udp/238.0.16.5:1234
+#EXTINF:0 tvg-name="vintaj" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813534739265990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Винтаж
+http://tv3.triolan.com.ua:8888/udp/238.0.0.227:1234
+#EXTINF:0 tvg-name="НТА" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636334702853780318.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",НТА
+http://tv3.triolan.com.ua:8888/udp/238.0.0.60:1234
+#EXTINF:0 tvg-name="Исландия" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=iceland_hd.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Ісландія HD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.99:1234
+#EXTINF:0 tvg-name="Наталі" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636583428742718343.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Наталі
+http://tv3.triolan.com.ua:8888/udp/238.0.0.25:1234
+#EXTINF:0 tvg-name="Milady Television" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813540145133990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Mi Lady
+http://tv3.triolan.com.ua:8888/udp/238.0.0.198:1234
+#EXTINF:0 tvg-name="Караван ТВ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636211187914483419.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Для женщин",Караван ТВ
+http://tv3.triolan.com.ua:8888/udp/238.0.1.27:1234
+#EXTINF:0 tvg-name="Provence" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=provence.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Provence
+http://tv3.triolan.com.ua:8888/udp/238.0.16.28:1234
+#EXTINF:0 tvg-name="BOUTIQUE TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635841213281006563.png&div=1" aspect-ratio=4:3 groups="Все каналы|Для женщин",BOUTIQUE TV
+http://tv3.triolan.com.ua:8888/udp/238.0.1.61:1234
+#EXTINF:0 tvg-name="Sonata TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=sonata.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Sonata TV
+http://tv3.triolan.com.ua:8888/udp/238.0.1.26:1234
+#EXTINF:0 tvg-name="Genuine TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637089214359686408.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Genuine TV
+http://tv3.triolan.com.ua:8888/udp/238.0.0.56:1234
+#EXTINF:0 tvg-name="CNL Украина" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813545744597990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",CNL TV
+http://tv3.triolan.com.ua:8888/udp/238.0.1.60:1234
+#EXTINF:0 tvg-name="Надия" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813547475417990.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Надiя
+http://tv3.triolan.com.ua:8888/udp/238.0.0.240:1234
+#EXTINF:0 tvg-name="Глас" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813491831621990.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",Глас
+http://tv3.triolan.com.ua:8888/udp/238.0.0.24:1234
+#EXTINF:0 tvg-name="Новый христианский" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636192217875777334.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",Новый христианский
+http://tv3.triolan.com.ua:8888/udp/238.0.0.96:1234
+#EXTINF:0 tvg-name="EWTN Украина" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636383773517643318.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Религия",EWTN
+http://tv3.triolan.com.ua:8888/udp/238.0.16.99:1234
+#EXTINF:0 tvg-name="Sirius" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636469411785518144.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Sirius
+http://tv3.triolan.com.ua:8888/udp/238.0.0.196:1234
+#EXTINF:0 tvg-name="Triolan BIZ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813490605929990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Triolan BIZ
+http://tv3.triolan.com.ua:8888/udp/238.0.1.2:1234
+#EXTINF:0 tvg-name="Triolan INFO" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635817910310582417.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Triolan INFO
+http://tv3.triolan.com.ua:8888/udp/238.0.1.39:1234
+#EXTINF:0 tvg-name="ПлюсПлюс" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813520591313990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",ПлюсПлюс
+http://tv3.triolan.com.ua:8888/udp/238.0.0.17:1234
+#EXTINF:0 tvg-name="Nickelodeon СНГ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636742393430756341.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Nickelodeon
+http://tv3.triolan.com.ua:8888/udp/238.0.0.146:1234
+#EXTINF:0 tvg-name="24 (Телеканал новостей 24)" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813539154689990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",24 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.0.28:1234
+#EXTINF:0 tvg-name="Еспресо TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635497318238829506.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",Еспресо TV
+http://tv3.triolan.com.ua:8888/udp/238.0.0.30:1234
+#EXTINF:0 tvg-name="UA:Перший" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635743716087679418.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",UA:Перший
+http://tv3.triolan.com.ua:8888/udp/238.0.0.19:1234
+#EXTINF:0 tvg-name="УНИАН ТВ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813568977989990.png&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Униан
 http://tv3.triolan.com.ua:8888/udp/238.0.0.143:1234
-#EXTINF:0 tvg-name="Maxxi-TV" channel-id="10896" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637181419386583016.PNG&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",НАШ
-http://tv3.triolan.com.ua:8888/udp/238.0.0.36:1234
-#EXTINF:0 tvg-name="Epoque" channel-id="11017" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461866774739677.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Эпоха
-http://tv3.triolan.com.ua:8888/udp/238.0.0.94:1234
-#EXTINF:0 tvg-name="Дача" channel-id="11014" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458307580372643.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Дача
-http://tv3.triolan.com.ua:8888/udp/238.0.0.91:1234
-#EXTINF:0 tvg-name="Первый автомобильный" channel-id="10909" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813525844613990.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Для мужчин",Первый автомобильный
+#EXTINF:0 tvg-name="Первый автомобильный" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813525844613990.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Для мужчин",Первый автомобильный
 http://tv3.triolan.com.ua:8888/udp/238.0.0.32:1234
-#EXTINF:0 tvg-name="Fashion TV UA" channel-id="12149" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=fashion.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Fashion TV UA
+#EXTINF:0 tvg-name="Epoque" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636461866774739677.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Эпоха
+http://tv3.triolan.com.ua:8888/udp/238.0.0.94:1234
+#EXTINF:0 tvg-name="Дача" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458307580372643.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Дача
+http://tv3.triolan.com.ua:8888/udp/238.0.0.91:1234
+#EXTINF:0 tvg-name="ПравдаТУТ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635895906542965459.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",ПравдаТУТ
+http://tv3.triolan.com.ua:8888/udp/238.0.1.54:1234
+#EXTINF:0 tvg-name="#НАШ канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037843719452834.png&div=1" aspect-ratio=4:3 groups="Все каналы|Музыка",#НАШ
+http://tv3.triolan.com.ua:8888/udp/238.0.0.100:1234
+#EXTINF:0 tvg-name="36.6 TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636910151087902432.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",36.6 TV SD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.61:1234
+#EXTINF:0 tvg-name="Украина 24" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637128151785564044.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Новости",Украина 24
+http://tv3.triolan.com.ua:8888/udp/238.0.0.225:1234
+#EXTINF:0 tvg-name="MusicBox UA" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813499229921990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",MusicBox UA
+http://tv3.triolan.com.ua:8888/udp/238.0.0.118:1234
+#EXTINF:0 tvg-name="4 канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637279900719982865.png&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",4 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.0.167:1234
+#EXTINF:0 tvg-name="8 канал (Украина)" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636486020118127873.png&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",8 канал
+http://tv3.triolan.com.ua:8888/udp/238.0.0.26:1234
+#EXTINF:0 tvg-name="ATR" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813533566301990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",ATR
+http://tv3.triolan.com.ua:8888/udp/238.0.0.228:1234
+#EXTINF:0 tvg-name="OBOZREVATEL" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636455816510025901.png&div=1" aspect-ratio=16:9 groups="Все каналы|Новости",OBOZ TV SD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.12:1234
+#EXTINF:0 tvg-name="Телевсесвіт" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635844912930114530.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",Телевсесвіт
+http://tv3.triolan.com.ua:8888/udp/238.0.1.156:1234
+#EXTINF:0 tvg-name="Eco TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813212307340768.jpg&div=1" aspect-ratio=4:3 groups="Все каналы|Разное",Эко-ТВ
+http://tv3.triolan.com.ua:8888/udp/238.0.1.163:1234
+#EXTINF:0 tvg-name="Fashion TV UA" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=fashion.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Fashion TV UA
 http://tv3.triolan.com.ua:8888/udp/238.0.16.117:1234
-#EXTINF:0 tvg-name="English Club TV" channel-id="12151" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=english-club.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",English Club TV
+#EXTINF:0 tvg-name="English Club TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=english-club.png&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",English Club TV
 http://tv3.triolan.com.ua:8888/udp/238.0.0.160:1234
+#EXTINF:0 tvg-name="Nick Jr" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452029347698586.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Junior SD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.116:1234
+#EXTINF:0 tvg-name="Niki Kids SD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636452031354516342.png&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Niki Kids SD
+http://tv3.triolan.com.ua:8888/udp/238.0.0.114:1234
+#EXTINF:0 tvg-name="Film.Ua Drama HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135756553966122.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",FilmUaDrama
+http://tv3.triolan.com.ua:8888/udp/238.0.0.67:1234
+#EXTINF:0 tvg-name="Кус Кус" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637135755202416778.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для женщин",Кус Кус
+http://tv3.triolan.com.ua:8888/udp/238.0.0.55:1234
+#EXTINF:0 tvg-name="Трофей" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636458316728891591.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Трофей
+http://tv3.triolan.com.ua:8888/udp/238.0.0.90:1234
+#EXTINF:0 tvg-name="М1" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=75.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М1
+http://tv3.triolan.com.ua:8888/udp/238.0.0.14:1234
+#EXTINF:0 tvg-name="М2" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152945036097943.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",М2
+http://tv3.triolan.com.ua:8888/udp/238.0.0.46:1234
+#EXTINF:0 tvg-name="EU.Music" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635820542098787892.png&div=1" aspect-ratio=16:9 groups="Все каналы|Музыка",EU music
+http://tv3.triolan.com.ua:8888/udp/238.0.0.43:1234
+#EXTINF:0 tvg-name="1+1" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813508058741990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",1+1
+http://tv3.triolan.com.ua:8888/udp/238.0.0.3:1234
+#EXTINF:0 tvg-name="Украина" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635743705373893870.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Украина
+http://tv3.triolan.com.ua:8888/udp/238.0.0.9:1234
+#EXTINF:0 tvg-name="СТБ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=111.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",СТБ
+http://tv3.triolan.com.ua:8888/udp/238.0.0.8:1234
+#EXTINF:0 tvg-name="Новый канал" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636673269065500626.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Новый канал
+http://tv3.triolan.com.ua:8888/udp/238.0.0.7:1234
+#EXTINF:0 tvg-name="ICTV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636420189249735782.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ICTV
+http://tv3.triolan.com.ua:8888/udp/238.0.0.5:1234
+#EXTINF:0 tvg-name="2+2" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813523496657990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",2+2
+http://tv3.triolan.com.ua:8888/udp/238.0.0.50:1234
+#EXTINF:0 tvg-name="ТЕТ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=tet.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",ТЕТ
+http://tv3.triolan.com.ua:8888/udp/238.0.0.11:1234
+#EXTINF:0 tvg-name="Прямой" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636391651356192922.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Прямий
+http://tv3.triolan.com.ua:8888/udp/238.0.0.154:1234
+#EXTINF:0 tvg-name="Star Family" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530859585314631.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Family
+http://tv3.triolan.com.ua:8888/udp/238.0.0.107:1234
+#EXTINF:0 tvg-name="Bolt" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637254006371308033.png&div=1" aspect-ratio=16:9 groups="Все каналы|Для мужчин",Bolt
+http://tv3.triolan.com.ua:8888/udp/238.0.0.102:1234
+#EXTINF:0 tvg-name="Star Cinema" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=636530855147892905.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Star Cinema
+http://tv3.triolan.com.ua:8888/udp/238.0.0.104:1234
+#EXTINF:0 tvg-name="НЛО TV" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635330694934051771.png&div=1" aspect-ratio=16:9 groups="Все каналы|Развлечение",НЛО TV
+http://tv3.triolan.com.ua:8888/udp/238.0.0.223:1234
+#EXTINF:0 tvg-name="Оце" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637152956437587029.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Оце
+http://tv3.triolan.com.ua:8888/udp/238.0.0.33:1234
+#EXTINF:0 tvg-name="Индиго" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637164047499543529.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Индиго
+http://tv3.triolan.com.ua:8888/udp/238.0.0.222:1234
+#EXTINF:0 tvg-name="Xsport HD" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=xsport.png&div=1" aspect-ratio=16:9 groups="Все каналы|Спорт",Xsport
+http://tv3.triolan.com.ua:8888/udp/238.0.0.39:1234
+#EXTINF:0 tvg-name="НАШ" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637181419386583016.PNG&div=1" aspect-ratio=16:9 groups="Все каналы|Разное",НАШ
+http://tv3.triolan.com.ua:8888/udp/238.0.0.36:1234
+#EXTINF:0 tvg-name="Интер" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813515308841990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Интер
+http://tv3.triolan.com.ua:8888/udp/238.0.0.73:1234
+#EXTINF:0 tvg-name="НТН" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813519553757990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",НТН
+http://tv3.triolan.com.ua:8888/udp/238.0.0.10:1234
+#EXTINF:0 tvg-name="Пиксель" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813510349133990.gif&div=1" aspect-ratio=16:9 groups="Все каналы|Детский",Пиксель
+http://tv3.triolan.com.ua:8888/udp/238.0.0.20:1234
+#EXTINF:0 tvg-name="К1" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813515977457990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",К1
+http://tv3.triolan.com.ua:8888/udp/238.0.0.13:1234
+#EXTINF:0 tvg-name="К2" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813516636713990.png&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",К2
+http://tv3.triolan.com.ua:8888/udp/238.0.0.23:1234
+#EXTINF:0 tvg-name="Мега" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813518822273990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Познавательный",Мега
+http://tv3.triolan.com.ua:8888/udp/238.0.0.34:1234
+#EXTINF:0 tvg-name="Zoom" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=635813513221873990.jpg&div=1" aspect-ratio=16:9 groups="Все каналы|Обще-развлекательный",Zoom
+http://tv3.triolan.com.ua:8888/udp/238.0.0.44:1234
+#EXTINF:0 tvg-name="Enter-фильм" channel-id="" tvg-logo="http://triolan.tv/get_channel_logo.ashx?img=637037860353108834.png&div=1" aspect-ratio=16:9 groups="Все каналы|Фильмы",Enter-фильм
+http://tv3.triolan.com.ua:8888/udp/238.0.0.21:1234
