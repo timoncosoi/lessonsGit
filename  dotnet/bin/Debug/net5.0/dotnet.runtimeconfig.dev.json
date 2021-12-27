@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/summercat/.dotnet/store/|arch|/|tfm|",
-      "/home/summercat/.nuget/packages"
-    ]
-  }
-}
